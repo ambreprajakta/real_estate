@@ -1,0 +1,5 @@
+json5==0.9.6
+numpy==1.21.5
+MultiDict==5.1.0
+pandas==1.4.2
+Flask==1.1.2
