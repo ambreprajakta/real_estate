@@ -1,5 +1,4 @@
 from flask import Flask,render_template,request,jsonify
-from jinja2 import escape
 import config
 import traceback
 from utils import Real_estate
